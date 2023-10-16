@@ -1,0 +1,538 @@
+{
+  "totalProducts": "59942",
+  "category": "aps",
+  "result": [
+    {
+      "position": {
+        "page": 1,
+        "position": 1,
+        "global_position": 1
+      },
+      "asin": "B0186LE1K4",
+      "price": {
+        "discounted": false,
+        "current_price": 25,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B0186LE1K4",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 25 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61VUkSZHU6L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 2,
+        "global_position": 2
+      },
+      "asin": "B0BTM1PL8K",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 14651,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.co.uk/dp/B0BTM1PL8K",
+      "score": "68859.70",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Series S + Hogwarts Legacy Standard | Download Code",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51ZULC-t-iL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 3,
+        "global_position": 3
+      },
+      "asin": "B0BTYH2NTB",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 2,
+        "rating": 5
+      },
+      "url": "https://www.amazon.co.uk/dp/B0BTYH2NTB",
+      "score": "10.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Series S – Gilded Hunter + Hogwarts Legacy Standard | Digital Code",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71e2sclqOtL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 4,
+        "global_position": 4
+      },
+      "asin": "B08GD9MNZB",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 14651,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.co.uk/dp/B08GD9MNZB",
+      "score": "68859.70",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Series S",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71NBQ2a52CL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 5,
+        "global_position": 5
+      },
+      "asin": "B0BS9XV7VY",
+      "price": {
+        "discounted": false,
+        "current_price": 59.99,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 62096,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B0BS9XV7VY",
+      "score": "285641.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Wireless Controller – Stellar Shift Special Edition for Xbox Series X|S, Xbox One, and Windows Devices",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61YtJXbH46L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 6,
+        "global_position": 6
+      },
+      "asin": "B0186MHJB6",
+      "price": {
+        "discounted": false,
+        "current_price": 50,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B0186MHJB6",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 50 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61Zipu5K5xL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 7,
+        "global_position": 7
+      },
+      "asin": "B09KRBGYWW",
+      "price": {
+        "discounted": false,
+        "current_price": 299.99,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 100,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.co.uk/dp/B09KRBGYWW",
+      "score": "440.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Sponsored Ad – G-STORY 12,5” Portable Monitor for Xbox Series S, UHD 4K Portable Screen for Xbox Series S, IPS Gaming Moni...",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71gtBwVJdRL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 8,
+        "global_position": 8
+      },
+      "asin": "B0186LLF58",
+      "price": {
+        "discounted": false,
+        "current_price": 30,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B0186LLF58",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 30 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61w1lsZOQvL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 9,
+        "global_position": 9
+      },
+      "asin": "B0186M0A4E",
+      "price": {
+        "discounted": false,
+        "current_price": 40,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B0186M0A4E",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 40 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61t3p6niK4L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 10,
+        "global_position": 10
+      },
+      "asin": "B07SDFLVKD",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 62096,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B07SDFLVKD",
+      "score": "285641.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Wireless Controller – Carbon Black",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/710KQDrOyYL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 11,
+        "global_position": 11
+      },
+      "asin": "B07VDGW9TW",
+      "price": {
+        "discounted": false,
+        "current_price": 70,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B07VDGW9TW",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 70 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61U4OowsTvL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 12,
+        "global_position": 12
+      },
+      "asin": "B0B9GJLV2D",
+      "price": {
+        "discounted": true,
+        "current_price": 103.28,
+        "currency": "GBP",
+        "before_price": 114.99,
+        "savings_amount": 11.71,
+        "savings_percent": 10.18
+      },
+      "reviews": {
+        "total_reviews": 1048,
+        "rating": 4.3
+      },
+      "url": "https://www.amazon.co.uk/dp/B0B9GJLV2D",
+      "score": "4506.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Xbox Elite Wireless Controller Series 2 – Core Edition",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51g0w89uz3L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 13,
+        "global_position": 13
+      },
+      "asin": "B09G6WL7N7",
+      "price": {
+        "discounted": false,
+        "current_price": 22.99,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 34,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.co.uk/dp/B09G6WL7N7",
+      "score": "153.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Sponsored Ad – Xbox to HDMI Converter Adapter,HD Link Cable for Original Xbox, Original Xbox to HDMI Support 1080P/720P Co...",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41I6ckMzRJL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 14,
+        "global_position": 14
+      },
+      "asin": "B0BRRNW6NZ",
+      "price": {
+        "discounted": false,
+        "current_price": 64.99,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37,
+        "rating": 4.1
+      },
+      "url": "https://www.amazon.co.uk/dp/B0BRRNW6NZ",
+      "score": "151.70",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Hogwarts Legacy Standard | Xbox Series X|S Digital Code",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71gV24P2dIL._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 15,
+        "global_position": 15
+      },
+      "asin": "B018FBCUZI",
+      "price": {
+        "discounted": false,
+        "current_price": 10,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B018FBCUZI",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 10 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61rKZIxWb7L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 16,
+        "global_position": 16
+      },
+      "asin": "B07VGP8XFT",
+      "price": {
+        "discounted": false,
+        "current_price": 100,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 37111,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B07VGP8XFT",
+      "score": "170710.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Gift Card | 100 GBP | Digital Voucher | Xbox One, Series S|X & Windows | (Download Code)",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61XXF9Yvc7L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 17,
+        "global_position": 17
+      },
+      "asin": "B013Y78YY4",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 5811,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.co.uk/dp/B013Y78YY4",
+      "score": "27311.70",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Logitech G920 Driving Force Racing Wheel and Floor Pedals, Real Force Feedback, Stainless Steel Paddle Shifters, Leather S...",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61O7HHu181L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 18,
+        "global_position": 18
+      },
+      "asin": "B0BHTPP71M",
+      "price": {
+        "discounted": false,
+        "current_price": 119.99,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 1308,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.co.uk/dp/B0BHTPP71M",
+      "score": "5755.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Sponsored Ad – Turtle Beach VelocityOne Flightstick Universal Simulation Controller Xbox Series X|S & Xbox One | Windows 1...",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711Z4axJF5L._AC_UY218_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 19,
+        "global_position": 19
+      },
+      "asin": "B087VMGP5G",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "GBP",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 62096,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.co.uk/dp/B087VMGP5G",
+      "score": "285641.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Xbox Wireless Controller – Shock Blue",
+      "thumbnail": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61FczNmfCBL._AC_UY218_.jpg"
+    }
+  ]
+}
